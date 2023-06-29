@@ -9,7 +9,7 @@
   
 - Recently I've been working on a react project Known as Kaban Board(this project is strictly vanilla react with no third-party library)
   
-- 📘 I love to contribute to the open-source community through writing of technical topics on [medium]([https://medium.com/](https://medium.com/@tomsarfo)https://medium.com/@tomsarfo)
+- 📘 I love to contribute to the open-source community through the writing of technical topics on [medium]([https://medium.com/](https://medium.com/@tomsarfo)https://medium.com/@tomsarfo)
   
 - ⚡⚡ Fun fact: I'm a Shoemaker😉
 
