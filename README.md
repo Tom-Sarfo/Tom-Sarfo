@@ -1,13 +1,9 @@
 # 👋Hi there, This is Thomas Sarfo
 
-## I'm a Web Developer based in Accra
+## I'm a Frontend Engineer based in Accra
 
 
-- ⏲️I'm currently learning react with best practice in mind.
-  
-- Exploring libraries like Redux, React Router, Formik and Axios.
-  
-- Recently I've been working on a react project Known as Kaban Board(this project is strictly vanilla react with no third-party library)
+- ⏲️I'm currently learning Typescript with best practice in mind.
   
 - 📘 I love to contribute to the open-source community through the writing of technical topics on [medium]([https://medium.com/](https://medium.com/@tomsarfo)https://medium.com/@tomsarfo)
   
