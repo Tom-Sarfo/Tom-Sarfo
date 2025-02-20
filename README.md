@@ -12,4 +12,4 @@ I’m passionate about solving complex problems, optimizing workflows, and deliv
 Feel free to explore my projects, and don’t hesitate to reach out for collaborations or discussions!  
 
 🔧 **Tech Stack**: JavaScript, TypeScript, Python, React, Remix (React Router 7) 
-🌟 **Achievements**: Led Bloom Formulary Tool development, spearheaded SAP replacement project, cost-saving initiatives  
+🌟 **Achievements**: Led Bloom Formulary Tool development, Contributed to SAP replacement project, cost-saving initiatives  
