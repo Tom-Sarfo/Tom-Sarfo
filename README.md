@@ -1,7 +1,7 @@
 
 👋 Hi there!  
 
-I’m **[Your Name]**, a **Software Engineer** at **mPharma**, where I focus on building impactful tools and solutions to improve healthcare operations. My expertise lies in **JavaScript**, **TypeScript**, and **Python**, and I’m highly proficient in frontend frameworks like **React** and **Remix** (currently known as React Router 7).  
+I’m **Thomas Sarfo**, a **Software Engineer** at **mPharma**, where I focus on building impactful tools and solutions to improve healthcare operations. My expertise lies in **JavaScript**, **TypeScript**, and **Python**, and I’m highly proficient in frontend frameworks like **React** and **Remix** (currently known as React Router 7).  
 
 As the **Lead Software Engineer** on mPharma’s **Bloom Formulary Tool** project, I’ve been instrumental in designing and delivering a critical tool that enhances operational efficiency. I also played a key role in replacing **SAP** with mPharma’s new **procurement tool**, a move that saved the company significant subscription costs while improving system performance and flexibility.  
 
